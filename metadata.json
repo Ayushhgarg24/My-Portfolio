@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Resume Portfolio",
+  "description": "A personal resume and portfolio website featuring multiple sections like projects, skills, and education. It includes a friendly AI assistant for answering questions about the portfolio content and a theme switcher for visual customization.",
+  "requestFramePermissions": []
+}
